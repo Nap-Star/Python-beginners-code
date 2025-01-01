@@ -36,10 +36,3 @@ elif (player1 == "scissor" and player2=="paper"):
   print("Scissor cuts the paper. Therefore, you win")
 elif (player1== "scissor" and player2== "rock"):
   print("Rock smashes the scissor. Therefore, computer wins")
-
-
-
-
-
-
-
