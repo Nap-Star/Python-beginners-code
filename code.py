@@ -1,0 +1,7 @@
+# SCRATCH 1
+# identifying even or odd number
+x= int(input())
+if x % 2 == 0:
+  print(x ,"is even number")
+else:
+  print(x,"is a odd number")
